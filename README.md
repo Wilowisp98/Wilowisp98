@@ -1,16 +1,28 @@
-## Hi there 👋
+# heyy,  
+welcome welcome
 
-<!--
-**Wilowisp98/Wilowisp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Hugo, i'm a 26yo data engineer working on building scalable data solutions at Sonae, Portugal's largest retail company. my academic background combines a bachelor's in mathematics and a master's in computer science with my thesis being focused on Machine Learning and handling imbalanced data, where I'm currently developing and working on a new DBSCAN improved version to deal with small disjuncts. 
 
-Here are some ideas to get you started:
+i'm particularly into apache spark and large-scale data pipelines. lately, i've been diving into ml, and, as a huge nerd & board game enthusiast, i'm currently building a board game recommendation system. you can read more about it on my [blog post](https://wilowsballoc.bearblog.dev/boardom-buster-my-boardgame-recommendation-system/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if you want to learn a bit more about me, check out my blog, especially the [anti-resume page](https://wilowsballoc.bearblog.dev/anti-resume/).  
+
+## running projects  
+- dbscan improved version (results coming out soon)  
+- board game recommendation system  
+
+## future projects  
+- band tracker  
+- chameleon computer vision project  
+- decision tree visualizer  
+
+## stats  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wilowisp98&style=flat-square&color=blue)  
+
+![Most Used Languages](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=Wilowisp98&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=material-palenight&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)   
+
+## find me here  
+[my blog](https://wilowsballoc.bearblog.dev/)  
+
+[my linkedin](https://www.linkedin.com/in/hugovaldrez/)  
