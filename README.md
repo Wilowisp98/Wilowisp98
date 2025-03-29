@@ -20,7 +20,7 @@ if you want to learn a bit more about me, check out my blog, especially the [ant
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wilowisp98&style=flat-square&color=blue)  
 
-![Most Used Languages](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=Wilowisp98&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=material-palenight&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)   
+![Most Used Languages](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=Wilowisp98&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=graywhite&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)   
 
 ## find me here  
 [my blog](https://wilowsballoc.bearblog.dev/)  
