@@ -12,8 +12,8 @@ if you want to learn a bit more about me, check out my blog, especially the [ant
 - board game recommendation system  
 
 ## future projects  
+- chameleon computer vision project
 - band tracker  
-- chameleon computer vision project  
 - decision tree visualizer  
 
 ## stats  
