@@ -9,10 +9,10 @@ if you want to learn a bit more about me, check out my blog, especially the [ant
 
 ## running projects  
 - dbscan improved version (results coming out soon) 
-- board game recommendation system  
+- board game recommendation system
+- chameleon computer vision project
 
 ## next projects  
-- chameleon computer vision project
 - music as a landscape computer vision project
 
 ## stats  
