@@ -14,6 +14,7 @@ if you want to learn a bit more about me, check out my blog, especially the [ant
 
 ## next projects  
 - music as a landscape computer vision project
+- black metal band logos are ALMOST EVERYTIME illegible, let's fix that 
 
 ## stats  
 ![Most Used Languages](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=Wilowisp98&custom_title=Most%20Used%20Languages%20including%20forks&layout=compact&theme=graywhite&include_forks=true&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)   
