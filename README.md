@@ -1,14 +1,14 @@
 # heyy,  
 welcome welcome
 
-my name is Hugo, i'm a 26yo data engineer working on building scalable data solutions at Sonae, Portugal's largest retail company. my academic background combines a bachelor's in mathematics and a master's in computer science with my thesis being focused on Machine Learning and handling imbalanced data where I'm currently developing and working on a new DBSCAN improved version to deal with small disjuncts. 
+my name is Hugo, i'm a 26yo data engineer working on building scalable data solutions at Sonae, Portugal's largest retail company. my academic background combines a bachelor's in mathematics and a master's in computer science with my thesis being focused on Machine Learning and handling imbalanced data.
 
 i'm particularly into apache spark and large-scale data pipelines. lately, i've been diving into ML/AI, and, as a huge nerd & board game enthusiast, i'm currently building a board game recommendation system. you can read more about it on my [blog post](https://wilowsballoc.bearblog.dev/boardom-buster-my-boardgame-recommendation-system/).
 
 if you want to learn a bit more about me, check out my blog, especially the [anti-resume page](https://wilowsballoc.bearblog.dev/anti-resume/).  
 
 ## running projects  
-- dbscan improved version (results coming out soon) 
+- thesis - a dbscan improved version 
 - board game recommendation system
 - chameleon computer vision project
 
