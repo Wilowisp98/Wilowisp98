@@ -8,7 +8,7 @@ i'm particularly into apache spark and large-scale data pipelines. lately, i've 
 if you want to learn a bit more about me, check out my blog, especially the [anti-resume page](https://wilowsballoc.bearblog.dev/anti-resume/).  
 
 ## running projects  
-- thesis - a dbscan improved version 
+- thesis - playing with dbscan
 - board game recommendation system
 - chameleon computer vision project
 
